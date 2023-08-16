@@ -1,0 +1,1001 @@
+2023-07-12 08:16:48 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 11:47:56 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 11:47:56 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 11:47:57 INFO  ExecutionInfo:54 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 11:47:57 ERROR ExecutionInfo:84 - For input string: ""
+  2023-07-12 11:47:57 WARN  ExecutionInfo:24 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 11:48:54 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 11:48:54 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 11:48:54 INFO  ExecutionInfo:54 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 11:48:54 ERROR ExecutionInfo:84 - For input string: ""
+  2023-07-12 11:48:54 WARN  ExecutionInfo:24 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 11:49:23 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 11:49:49 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 11:50:07 INFO  ExecutionInfo:54 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 11:50:07 ERROR ExecutionInfo:84 - For input string: ""
+  2023-07-12 11:50:07 WARN  ExecutionInfo:24 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 11:50:37 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 11:50:43 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 11:50:56 INFO  ExecutionInfo:54 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 11:50:56 ERROR ExecutionInfo:84 - For input string: ""
+  2023-07-12 11:50:56 WARN  ExecutionInfo:24 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 11:55:09 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 11:55:14 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 11:55:29 ERROR ConfigurationXML:54 - D:\Java Projects\AskLegalAPIResponseToJSON\Configuration\ExecutionInfo.xml (The system cannot find the path specified)
+  2023-07-12 12:02:54 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 12:03:01 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 12:03:24 ERROR ConfigurationXML:54 - \\Configuration\ExecutionInfo.xml (The network path was not found)
+  2023-07-12 12:03:24 INFO  ExecutionInfo:54 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 12:03:24 ERROR ExecutionInfo:84 - For input string: ""
+  2023-07-12 12:03:24 WARN  ExecutionInfo:24 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 12:04:41 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 12:04:41 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 12:04:58 INFO  ConfigurationXML:36 - 
+Node Name :apiinvokedate
+  2023-07-12 12:05:09 INFO  ConfigurationXML:43 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 12:05:14 INFO  ConfigurationXML:47 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 12:05:31 INFO  ExecutionInfo:78 - Retrieving Audit logs from the default start date
+  2023-07-12 12:05:37 INFO  ExecutionInfo:19 - Retrieved date param information from the configuration file
+  2023-07-12 12:05:38 INFO  ExecutionInfo:20 - Start date=>1610236800000
+  2023-07-12 12:05:42 INFO  ExecutionInfo:21 - End date=>1688083140418
+  2023-07-12 12:09:12 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 12:09:12 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 12:09:12 INFO  ConfigurationXML:36 - 
+Node Name :apiinvokedate
+  2023-07-12 12:09:12 INFO  ConfigurationXML:43 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 12:09:12 INFO  ConfigurationXML:47 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 12:09:12 INFO  ExecutionInfo:78 - Retrieving Audit logs from the default start date
+  2023-07-12 12:09:12 INFO  ExecutionInfo:19 - Retrieved date param information from the configuration file
+  2023-07-12 12:09:12 INFO  ExecutionInfo:20 - Start date=>1610236800000
+  2023-07-12 12:09:12 INFO  ExecutionInfo:21 - End date=>1688083140307
+  2023-07-12 12:10:47 INFO  ExecutionInfo:11 - Start AskLegal API Connector
+  2023-07-12 12:10:47 INFO  ConfigurationXML:19 - Reading the configuration XML to retrieve the date information
+  2023-07-12 12:10:47 INFO  ConfigurationXML:36 - 
+Node Name :apiinvokedate
+  2023-07-12 12:10:47 INFO  ConfigurationXML:43 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 12:10:47 INFO  ConfigurationXML:47 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 12:10:47 INFO  ExecutionInfo:78 - Retrieving Audit logs from the default start date
+  2023-07-12 12:10:47 INFO  ExecutionInfo:19 - Retrieved date param information from the configuration file
+  2023-07-12 12:10:47 INFO  ExecutionInfo:20 - Start date=>1610236800000
+  2023-07-12 12:10:47 INFO  ExecutionInfo:21 - End date=>1672444740748
+  2023-07-12 12:42:00 INFO  ExecutionInfo:13 - Start AskLegal API Connector
+  2023-07-12 12:42:00 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 12:42:00 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 12:42:00 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 12:42:00 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 12:42:00 INFO  ExecutionInfo:78 - Retrieving Audit logs from the default start date
+  2023-07-12 12:42:00 INFO  ExecutionInfo:21 - Retrieved date param information from the configuration file
+  2023-07-12 12:42:00 INFO  ExecutionInfo:22 - Start date=>1610236800000
+  2023-07-12 12:42:00 INFO  ExecutionInfo:23 - End date=>1688083140687
+  2023-07-12 12:42:00 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-12 12:42:00 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-12 12:42:00 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-12 12:57:06 INFO  ExecutionInfo:13 - Start AskLegal API Connector
+  2023-07-12 12:57:06 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 12:57:07 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 12:57:07 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 12:57:07 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 12:57:07 INFO  ExecutionInfo:54 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 12:57:07 INFO  ExecutionInfo:83 - Retrieving Audit logs from the default start date
+  2023-07-12 12:57:07 INFO  ExecutionInfo:21 - Retrieved date param information from the configuration file
+  2023-07-12 12:57:07 INFO  ExecutionInfo:22 - Start date=>1610236800000
+  2023-07-12 12:57:07 INFO  ExecutionInfo:23 - End date=>1689119940053
+  2023-07-12 12:57:07 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-12 12:57:07 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-12 12:57:07 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-12 13:00:44 INFO  ExecutionInfo:13 - Start AskLegal API Connector
+  2023-07-12 13:00:44 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:00:44 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:00:44 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 13:00:44 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 13:00:44 INFO  ExecutionInfo:54 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:00:44 INFO  ExecutionInfo:83 - Retrieving Audit logs from the default start date
+  2023-07-12 13:00:44 INFO  ExecutionInfo:86 - Default Start/Min date for audit log API is=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 13:00:44 INFO  ExecutionInfo:21 - Retrieved date param information from the configuration file
+  2023-07-12 13:00:44 INFO  ExecutionInfo:22 - Start date=>1610236800000
+  2023-07-12 13:00:44 INFO  ExecutionInfo:23 - End date=>1689119940972
+  2023-07-12 13:00:44 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-12 13:00:45 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-12 13:00:45 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-12 13:10:54 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:10:54 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:10:54 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:10:54 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 13:10:54 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 13:10:54 INFO  ExecutionInfo:54 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:10:54 INFO  ExecutionInfo:83 - Retrieving Audit logs from the default start date
+  2023-07-12 13:10:54 INFO  ExecutionInfo:86 - Default Start/Min date for audit log API is=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 13:10:54 INFO  Launcher:21 - Retrieved date param information from the configuration file
+  2023-07-12 13:10:54 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:10:54 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:10:55 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-12 13:10:55 INFO  ExecutionInfo:101 - Last execution date updated
+  2023-07-12 13:11:55 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:11:55 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:11:55 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:11:56 INFO  ExecutionInfo:54 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:11:56 INFO  ExecutionInfo:56 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 13:11:56 ERROR ExecutionInfo:92 - For input string: ""
+  2023-07-12 13:11:56 WARN  Launcher:26 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 13:11:56 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:11:56 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:11:56 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-12 13:11:56 INFO  ExecutionInfo:101 - Last execution date updated
+  2023-07-12 13:12:48 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:12:48 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:12:57 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:14:15 INFO  ExecutionInfo:54 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:15:01 INFO  ExecutionInfo:56 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 13:15:45 ERROR ExecutionInfo:92 - For input string: ""
+  2023-07-12 13:15:45 WARN  Launcher:26 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 13:15:45 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:15:45 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:17:57 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:17:57 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:18:02 ERROR ConfigurationXML:62 - Premature end of file.
+  2023-07-12 13:18:56 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:18:56 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:19:10 ERROR ConfigurationXML:62 - Premature end of file.
+  2023-07-12 13:19:21 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:19:21 INFO  ExecutionInfo:57 - Generating the Start and End date params with the previous Execution Date=>
+  2023-07-12 13:19:21 ERROR ExecutionInfo:93 - For input string: ""
+  2023-07-12 13:19:21 WARN  Launcher:26 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 13:19:21 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:19:21 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:19:21 ERROR ConfigurationXML:100 - Premature end of file.
+  2023-07-12 13:19:21 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-12 13:20:22 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:20:22 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:20:32 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:20:50 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 13:20:50 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 13:20:54 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:20:54 INFO  ExecutionInfo:84 - Retrieving Audit logs from the default start date
+  2023-07-12 13:20:54 ERROR ExecutionInfo:93 - For input string: "1610236800000&DEFAULT"
+  2023-07-12 13:20:57 WARN  Launcher:26 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 13:20:57 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:20:57 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:20:58 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-12 13:20:58 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-12 13:21:16 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:21:16 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:21:30 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:22:02 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:22:05 INFO  ExecutionInfo:57 - Generating the Start and End date params with the previous Execution Date=>1689168057114
+  2023-07-12 13:22:10 INFO  ExecutionInfo:67 - Start/Min Date param of Auditlog API=>Tue Jul 11 13:20:57 GMT 2023
+  2023-07-12 13:22:49 INFO  Launcher:21 - Retrieved date param information from the configuration file
+  2023-07-12 13:22:49 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:22:49 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:22:51 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-12 13:22:51 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-12 13:56:17 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:56:17 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:56:17 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:56:17 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 13:56:17 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 13:56:17 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:56:17 INFO  ExecutionInfo:84 - Retrieving Audit logs from the default start date
+  2023-07-12 13:56:17 ERROR ExecutionInfo:93 - For input string: "1610236800000&DEFAULT"
+  2023-07-12 13:56:17 WARN  Launcher:26 - Unable to process date information from Configuration file. Quiting the execution
+  2023-07-12 13:56:17 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-12 13:56:17 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-12 13:56:17 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-12 13:56:17 INFO  DataFetcher:42 - Auditlog fetched
+  2023-07-12 13:56:17 INFO  DataFetcher:43 - Starts uploading Auditlog into BigQuery
+  2023-07-12 13:56:17 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:56:17 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:56:17 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-12 13:56:17 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-12 13:58:44 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 13:58:44 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 13:58:51 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 13:58:58 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 13:58:58 INFO  ExecutionInfo:57 - Generating the Start and End date params with the previous Execution Date=>1689170177551
+  2023-07-12 13:58:58 INFO  ExecutionInfo:67 - Start/Min Date param of Auditlog API=>Tue Jul 11 13:56:17 GMT 2023
+  2023-07-12 13:59:14 INFO  Launcher:21 - Retrieved date param information from the configuration file
+  2023-07-12 13:59:22 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-12 13:59:22 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-12 13:59:22 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-12 13:59:33 INFO  DataFetcher:42 - Auditlog fetched
+  2023-07-12 13:59:33 INFO  DataFetcher:43 - Starts uploading Auditlog into BigQuery
+  2023-07-12 13:59:33 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 13:59:33 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 13:59:35 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-12 13:59:35 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-12 14:17:19 INFO  Launcher:13 - Start AskLegal API Connector
+  2023-07-12 14:17:19 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 14:17:20 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 14:17:20 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 14:17:20 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 14:17:20 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 14:17:20 INFO  ExecutionInfo:84 - Retrieving Audit logs from the default start date
+  2023-07-12 14:17:20 INFO  ExecutionInfo:87 - Default Start/Min date for audit log API is=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 14:17:20 INFO  Launcher:21 - Retrieved date param information from the configuration file
+  2023-07-12 14:17:20 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-12 14:17:20 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-12 14:17:20 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-12 14:20:10 INFO  Launcher:13 - STARTED- AskLegal API Connector
+  2023-07-12 14:20:10 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-12 14:20:10 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-12 14:20:10 INFO  ConfigurationXML:51 - No entry of last execution date in the XML Config file. Auditlogs will fetch from default start date
+  2023-07-12 14:20:10 INFO  ConfigurationXML:55 - Start date=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 14:20:10 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Tue Jul 11 23:59:00 GMT 2023
+  2023-07-12 14:20:10 INFO  ExecutionInfo:84 - Retrieving Audit logs from the default start date
+  2023-07-12 14:20:10 INFO  ExecutionInfo:87 - Default Start/Min date for audit log API is=>Sun Jan 10 00:00:00 GMT 2021
+  2023-07-12 14:20:10 INFO  Launcher:21 - Retrieved date param information from the configuration file
+  2023-07-12 14:20:10 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-12 14:20:10 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-12 14:20:10 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-12 14:33:19 INFO  DataFetcher:42 - Auditlog fetched
+  2023-07-12 14:33:19 INFO  DataFetcher:43 - Starts uploading Auditlog into BigQuery
+  2023-07-12 14:33:19 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-12 14:33:19 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-12 14:33:19 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-12 14:33:19 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-12 14:33:19 INFO  Launcher:32 - COMPLETED- AskLegal API Connector
+  2023-07-14 08:17:34 INFO  Launcher:13 - STARTED- AskLegal API Connector
+  2023-07-14 08:17:34 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-14 08:17:34 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-14 08:17:34 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Thu Jul 13 23:59:00 GMT 2023
+  2023-07-14 08:17:34 INFO  ExecutionInfo:57 - Generating the Start and End date params with the previous Execution Date=>1689172399357
+  2023-07-14 08:17:34 INFO  ExecutionInfo:67 - Start/Min Date param of Auditlog API=>Tue Jul 11 14:33:19 GMT 2023
+  2023-07-14 08:17:34 INFO  Launcher:21 - Retrieved date param information from the configuration file
+  2023-07-14 08:17:34 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-14 08:17:34 INFO  DataFetcher:24 - Folder for JSON response created at C:/AskLegalJSONResponses
+  2023-07-14 08:17:34 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-14 08:17:34 INFO  APIInvoker:38 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=&maxDate=1689292740381&minDate=1689085999357
+  2023-07-14 08:17:37 INFO  APIInvoker:50 - Response Code => 200
+  2023-07-14 08:17:37 INFO  APIInvoker:52 - Response Message => OK
+  2023-07-14 08:17:38 INFO  APIInvoker:99 - Auditlog data count=>1000
+  2023-07-14 08:17:38 INFO  APIInvoker:125 - Auditlog data saved as JSON File at C:/AskLegalJSONResponses/DOC_STATE_CHANGED_2023-07-14 08-17-34.json
+  2023-07-14 08:17:38 INFO  APIInvoker:38 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=ClkKFgoJdGltZXN0YW1wEgkIuImL3--HgAMSO2oJc35hby1kb2NzciALEghBdWRpdExvZyISVGprV3hjWDAzZzZPd3hkQ1BnDKIBC2VxdWlmYXguY29tGAAgAQ&maxDate=1689292740381&minDate=1689085999357
+  2023-07-14 08:17:39 INFO  APIInvoker:50 - Response Code => 200
+  2023-07-14 08:17:39 INFO  APIInvoker:52 - Response Message => OK
+  2023-07-14 08:17:39 INFO  APIInvoker:99 - Auditlog data count=>1375
+  2023-07-14 08:17:39 INFO  APIInvoker:125 - Auditlog data saved as JSON File at C:/AskLegalJSONResponses/DOC_STATE_CHANGED_2023-07-14 08-17-34.json
+  2023-07-14 08:17:39 INFO  APIInvoker:38 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=ClkKFgoJdGltZXN0YW1wEgkIyIeQi_CGgAMSO2oJc35hby1kb2NzciALEghBdWRpdExvZyISVGppREE3cHlvV25mOUVVZXpWDKIBC2VxdWlmYXguY29tGAAgAQ&maxDate=1689292740381&minDate=1689085999357
+  2023-07-14 08:17:39 INFO  APIInvoker:50 - Response Code => 200
+  2023-07-14 08:17:39 INFO  APIInvoker:52 - Response Message => OK
+  2023-07-14 08:17:39 INFO  APIInvoker:77 - Auditlog request sending stopped, all available information are retrieved
+  2023-07-14 08:17:39 INFO  APIInvoker:88 - Response saved as JSON in local folder.
+  2023-07-14 08:17:39 INFO  DataFetcher:42 - Auditlog fetched
+  2023-07-14 08:17:39 INFO  DataFetcher:43 - Starts uploading Auditlog into BigQuery
+  2023-07-14 08:17:40 INFO  Launcher:29 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-14 08:17:40 INFO  Launcher:30 - Setting the last execution date for the reference of next iteration
+  2023-07-14 08:17:40 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-14 08:17:40 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-14 08:17:40 INFO  Launcher:32 - COMPLETED- AskLegal API Connector
+  2023-07-14 11:38:15 INFO  Launcher:13 - *********AskLegal Auditlogs and Reviews*********
+  2023-07-14 11:38:15 INFO  Launcher:14 - STARTED- AskLegal API Connector
+  2023-07-14 11:38:15 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-14 11:38:15 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-14 11:38:15 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Thu Jul 13 23:59:00 GMT 2023
+  2023-07-14 11:38:15 INFO  ExecutionInfo:57 - Generating the Start and End date params with the previous Execution Date=>1689322660059
+  2023-07-14 11:38:15 INFO  ExecutionInfo:67 - Start/Min Date param of Auditlog API=>Thu Jul 13 08:17:40 GMT 2023
+  2023-07-14 11:38:15 INFO  Launcher:22 - Retrieved date param information from the configuration file
+  2023-07-14 11:38:15 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-14 11:38:15 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-14 11:38:15 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-14 11:38:15 INFO  APIInvoker:38 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=&maxDate=1689292740654&minDate=1689236260059
+  2023-07-14 11:38:17 INFO  APIInvoker:50 - Response Code => 200
+  2023-07-14 11:38:17 INFO  APIInvoker:52 - Response Message => OK
+  2023-07-14 11:38:18 INFO  APIInvoker:99 - Auditlog data count=>461
+  2023-07-14 11:38:18 INFO  APIInvoker:125 - Auditlog data saved as JSON File at C:/AskLegalJSONResponses/DOC_STATE_CHANGED_2023-07-14 11-38-15.json
+  2023-07-14 11:38:18 INFO  APIInvoker:38 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=ClkKFgoJdGltZXN0YW1wEgkI6I3N9sqLgAMSO2oJc35hby1kb2NzciALEghBdWRpdExvZyISVGp0QUFvdnQxS2JDVGRtRlFoDKIBC2VxdWlmYXguY29tGAAgAQ&maxDate=1689292740654&minDate=1689236260059
+  2023-07-14 11:38:18 INFO  APIInvoker:50 - Response Code => 200
+  2023-07-14 11:38:18 INFO  APIInvoker:52 - Response Message => OK
+  2023-07-14 11:38:18 INFO  APIInvoker:77 - Auditlog request sending stopped, all available information are retrieved
+  2023-07-14 11:38:18 INFO  APIInvoker:88 - Response saved as JSON in local folder.
+  2023-07-14 11:38:18 INFO  DataFetcher:42 - Auditlog fetched
+  2023-07-14 11:38:18 INFO  DataFetcher:43 - Starts uploading Auditlog into BigQuery
+  2023-07-14 11:38:18 INFO  Launcher:28 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-14 11:38:18 INFO  Launcher:29 - Setting the last execution date for the reference of next iteration
+  2023-07-14 11:38:18 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-14 11:38:18 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-14 11:38:18 INFO  Launcher:31 - COMPLETED- AskLegal API Connector
+  2023-07-14 12:27:40 INFO  Launcher:13 - *********AskLegal Auditlogs and Reviews*********
+  2023-07-14 12:27:40 INFO  Launcher:14 - STARTED- AskLegal API Connector
+  2023-07-14 12:27:40 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-14 12:27:40 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-14 12:27:41 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Thu Jul 13 23:59:00 GMT 2023
+  2023-07-14 12:27:41 INFO  ExecutionInfo:57 - Generating the Start and End date params with the previous Execution Date=>1689336279248
+  2023-07-14 12:27:41 INFO  ExecutionInfo:67 - Start/Min Date param of Auditlog API=>Thu Jul 13 12:04:39 GMT 2023
+  2023-07-14 12:27:41 INFO  Launcher:22 - Retrieved date param information from the configuration file
+  2023-07-14 12:27:41 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-14 12:27:41 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-14 12:27:41 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-14 12:27:41 INFO  APIInvoker:23 - Auditlog request is will be sent next
+  2023-07-14 12:27:41 INFO  APIInvoker:39 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=&maxDate=1689292740979&minDate=1689249879248
+  2023-07-14 12:27:42 INFO  APIInvoker:51 - Response Code => 200
+  2023-07-14 12:27:42 INFO  APIInvoker:53 - Response Message => OK
+  2023-07-14 12:27:43 INFO  APIInvoker:97 - Formatting auditlog data into JSON format
+  2023-07-14 12:27:43 INFO  APIInvoker:101 - Auditlog data count=>455
+  2023-07-14 12:27:43 INFO  APIInvoker:127 - Auditlog data saved as JSON File at C:/AskLegalJSONResponses/DOC_STATE_CHANGED_2023-07-14 12-27-41.json
+  2023-07-14 12:27:43 INFO  APIInvoker:39 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=ClkKFgoJdGltZXN0YW1wEgkIgNHhzNOLgAMSO2oJc35hby1kb2NzciALEghBdWRpdExvZyISVGp0SnZUOTdPSDU0bDhxU0xWDKIBC2VxdWlmYXguY29tGAAgAQ&maxDate=1689292740979&minDate=1689249879248
+  2023-07-14 12:27:43 INFO  APIInvoker:51 - Response Code => 200
+  2023-07-14 12:27:43 INFO  APIInvoker:53 - Response Message => OK
+  2023-07-14 12:27:43 INFO  APIInvoker:78 - Auditlog request sending stopped, all available information are retrieved
+  2023-07-14 12:27:43 INFO  APIInvoker:89 - Response saved as JSON in local folder.
+  2023-07-14 12:27:43 INFO  DataFetcher:42 - Auditlog fetched
+  2023-07-14 12:27:43 INFO  DataFetcher:47 - Preparing to fetch Reviews
+  2023-07-14 12:27:43 INFO  APIInvoker:146 - Request for retrieving Review data will be sent next
+  2023-07-14 12:27:43 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=0&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:27:43 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:27:43 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:27:43 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:27:56 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:27:56 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:27:56 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:27:56 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:27:56 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:27:56 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:28:06 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:28:07 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:28:07 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:28:07 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:28:07 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:28:07 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:28:17 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:28:17 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:28:17 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:28:17 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:28:17 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:28:17 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:28:26 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:28:26 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:28:26 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:28:26 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:28:26 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:28:26 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:28:36 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:28:37 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:28:37 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:28:37 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:28:37 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:28:37 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:28:44 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:28:44 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:28:45 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:28:45 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:28:45 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:28:45 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:28:53 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:28:53 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:28:53 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:28:53 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:28:53 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:28:53 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:01 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:01 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:01 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:01 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:01 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:01 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:07 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:08 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:08 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:08 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:08 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:08 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:15 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:15 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:15 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:15 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:15 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:15 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:20 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:20 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:20 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:20 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:20 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:20 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:27 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:27 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:27 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:27 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:27 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:27 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:34 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:35 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:35 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:35 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:35 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:35 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:41 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:41 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:41 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:41 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:41 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:41 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:29:51 INFO  APIInvoker:180 - Response code=>200
+  2023-07-14 12:29:51 INFO  APIInvoker:239 - Formatting the Review data into JSON format
+  2023-07-14 12:29:51 INFO  APIInvoker:153 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:29:51 INFO  APIInvoker:175 - Connecting
+  2023-07-14 12:29:51 INFO  APIInvoker:177 - Connected
+  2023-07-14 12:29:51 INFO  APIInvoker:178 - Getting response code
+  2023-07-14 12:37:08 INFO  Launcher:13 - *********AskLegal Auditlogs and Reviews*********
+  2023-07-14 12:37:08 INFO  Launcher:14 - STARTED- AskLegal API Connector
+  2023-07-14 12:37:08 INFO  ConfigurationXML:27 - Reading the configuration XML to retrieve the date information
+  2023-07-14 12:37:08 INFO  ConfigurationXML:44 - 
+Node Name :apiinvokedate
+  2023-07-14 12:37:08 INFO  ExecutionInfo:55 - End/Max Date param of Auditlog API=>Thu Jul 13 23:59:00 GMT 2023
+  2023-07-14 12:37:08 INFO  ExecutionInfo:57 - Generating the Start and End date params with the previous Execution Date=>1689336279248
+  2023-07-14 12:37:08 INFO  ExecutionInfo:67 - Start/Min Date param of Auditlog API=>Thu Jul 13 12:04:39 GMT 2023
+  2023-07-14 12:37:08 INFO  Launcher:22 - Retrieved date param information from the configuration file
+  2023-07-14 12:37:08 INFO  DataFetcher:19 - Begins to invoke API Calls
+  2023-07-14 12:37:08 INFO  DataFetcher:29 - Folder already existing at C:/AskLegalJSONResponses
+  2023-07-14 12:37:08 INFO  DataFetcher:37 - About to start fetching Auditlog
+  2023-07-14 12:37:08 INFO  APIInvoker:24 - Auditlog request is will be sent next
+  2023-07-14 12:37:08 INFO  APIInvoker:40 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=&maxDate=1689292740352&minDate=1689249879248
+  2023-07-14 12:37:10 INFO  APIInvoker:52 - Response Code => 200
+  2023-07-14 12:37:10 INFO  APIInvoker:54 - Response Message => OK
+  2023-07-14 12:37:11 INFO  APIInvoker:98 - Formatting auditlog data into JSON format
+  2023-07-14 12:37:11 INFO  APIInvoker:102 - Auditlog data count=>455
+  2023-07-14 12:37:11 INFO  APIInvoker:128 - Auditlog data saved as JSON File at C:/AskLegalJSONResponses/DOC_STATE_CHANGED_2023-07-14 12-37-08.json
+  2023-07-14 12:37:11 INFO  APIInvoker:40 - URL to Auditlog API=>https://ao-docs.appspot.com/_ah/api/domain/v1/auditLog?libraryId=S4MU8KHxZyuMPz6JPl&securityCode=S5INt505uH4ZSnmEy3&pageSize=1000&eventType=DOCUMENT_STATE_CHANGED&pageToken=ClkKFgoJdGltZXN0YW1wEgkIgNHhzNOLgAMSO2oJc35hby1kb2NzciALEghBdWRpdExvZyISVGp0SnZUOTdPSDU0bDhxU0xWDKIBC2VxdWlmYXguY29tGAAgAQ&maxDate=1689292740352&minDate=1689249879248
+  2023-07-14 12:37:11 INFO  APIInvoker:52 - Response Code => 200
+  2023-07-14 12:37:11 INFO  APIInvoker:54 - Response Message => OK
+  2023-07-14 12:37:11 INFO  APIInvoker:79 - Auditlog request sending stopped, all available information are retrieved
+  2023-07-14 12:37:11 INFO  APIInvoker:90 - Response saved as JSON in local folder.
+  2023-07-14 12:37:11 INFO  DataFetcher:42 - Auditlog fetched
+  2023-07-14 12:37:11 INFO  DataFetcher:47 - Preparing to fetch Reviews
+  2023-07-14 12:37:11 INFO  APIInvoker:147 - Request for retrieving Review data will be sent next
+  2023-07-14 12:37:11 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=0&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:11 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:11 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:11 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:14 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:14 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:14 INFO  APIInvoker:250 - Number of Reviews retrieved=>100
+  2023-07-14 12:37:14 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:14 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:14 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:14 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:18 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:18 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:19 INFO  APIInvoker:250 - Number of Reviews retrieved=>200
+  2023-07-14 12:37:19 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:19 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:19 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:19 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:24 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:24 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:24 INFO  APIInvoker:250 - Number of Reviews retrieved=>300
+  2023-07-14 12:37:24 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:24 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:24 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:24 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:27 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:28 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:28 INFO  APIInvoker:250 - Number of Reviews retrieved=>400
+  2023-07-14 12:37:28 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:28 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:28 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:28 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:32 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:33 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:33 INFO  APIInvoker:250 - Number of Reviews retrieved=>500
+  2023-07-14 12:37:33 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:33 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:33 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:33 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:38 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:38 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:38 INFO  APIInvoker:250 - Number of Reviews retrieved=>600
+  2023-07-14 12:37:38 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:38 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:38 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:38 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:42 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:42 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:42 INFO  APIInvoker:250 - Number of Reviews retrieved=>700
+  2023-07-14 12:37:42 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:42 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:42 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:42 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:47 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:48 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:48 INFO  APIInvoker:250 - Number of Reviews retrieved=>800
+  2023-07-14 12:37:48 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:48 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:48 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:48 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:37:54 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:37:54 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:37:54 INFO  APIInvoker:250 - Number of Reviews retrieved=>900
+  2023-07-14 12:37:54 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:37:54 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:37:54 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:37:54 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:01 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:01 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:01 INFO  APIInvoker:250 - Number of Reviews retrieved=>1000
+  2023-07-14 12:38:01 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:01 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:01 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:01 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:06 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:06 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:06 INFO  APIInvoker:250 - Number of Reviews retrieved=>1100
+  2023-07-14 12:38:06 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:06 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:06 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:06 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:12 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:13 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:13 INFO  APIInvoker:250 - Number of Reviews retrieved=>1200
+  2023-07-14 12:38:13 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:13 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:13 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:13 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:23 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:23 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:23 INFO  APIInvoker:250 - Number of Reviews retrieved=>1300
+  2023-07-14 12:38:23 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:23 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:23 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:23 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:28 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:29 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:29 INFO  APIInvoker:250 - Number of Reviews retrieved=>1400
+  2023-07-14 12:38:29 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:29 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:29 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:29 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:36 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:36 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:36 INFO  APIInvoker:250 - Number of Reviews retrieved=>1500
+  2023-07-14 12:38:36 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:36 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:36 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:36 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:42 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:42 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:42 INFO  APIInvoker:250 - Number of Reviews retrieved=>1600
+  2023-07-14 12:38:42 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:42 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:42 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:42 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:49 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:50 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:50 INFO  APIInvoker:250 - Number of Reviews retrieved=>1700
+  2023-07-14 12:38:50 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:50 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:50 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:50 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:38:56 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:38:56 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:38:56 INFO  APIInvoker:250 - Number of Reviews retrieved=>1800
+  2023-07-14 12:38:56 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:38:56 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:38:56 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:38:56 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:39:04 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:39:05 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:39:05 INFO  APIInvoker:250 - Number of Reviews retrieved=>1900
+  2023-07-14 12:39:05 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=1900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:39:05 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:39:05 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:39:05 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:39:14 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:39:14 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:39:14 INFO  APIInvoker:250 - Number of Reviews retrieved=>2000
+  2023-07-14 12:39:14 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:39:14 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:39:14 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:39:14 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:39:27 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:39:27 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:39:27 INFO  APIInvoker:250 - Number of Reviews retrieved=>2100
+  2023-07-14 12:39:27 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:39:27 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:39:27 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:39:27 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:39:42 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:39:42 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:39:42 INFO  APIInvoker:250 - Number of Reviews retrieved=>2200
+  2023-07-14 12:39:42 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:39:42 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:39:42 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:39:42 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:39:50 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:39:50 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:39:50 INFO  APIInvoker:250 - Number of Reviews retrieved=>2300
+  2023-07-14 12:39:50 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:39:50 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:39:50 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:39:50 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:40:00 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:40:00 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:40:00 INFO  APIInvoker:250 - Number of Reviews retrieved=>2400
+  2023-07-14 12:40:00 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:40:00 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:40:00 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:40:00 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:40:13 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:40:13 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:40:13 INFO  APIInvoker:250 - Number of Reviews retrieved=>2500
+  2023-07-14 12:40:13 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:40:13 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:40:13 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:40:13 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:40:22 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:40:22 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:40:22 INFO  APIInvoker:250 - Number of Reviews retrieved=>2600
+  2023-07-14 12:40:22 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:40:22 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:40:22 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:40:22 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:40:34 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:40:34 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:40:34 INFO  APIInvoker:250 - Number of Reviews retrieved=>2700
+  2023-07-14 12:40:34 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:40:34 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:40:34 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:40:34 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:40:44 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:40:44 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:40:44 INFO  APIInvoker:250 - Number of Reviews retrieved=>2800
+  2023-07-14 12:40:44 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:40:44 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:40:44 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:40:44 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:40:53 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:40:54 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:40:54 INFO  APIInvoker:250 - Number of Reviews retrieved=>2900
+  2023-07-14 12:40:54 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=2900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:40:54 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:40:54 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:40:54 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:41:07 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:41:08 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:41:08 INFO  APIInvoker:250 - Number of Reviews retrieved=>3000
+  2023-07-14 12:41:08 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:41:08 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:41:08 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:41:08 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:41:19 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:41:19 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:41:19 INFO  APIInvoker:250 - Number of Reviews retrieved=>3100
+  2023-07-14 12:41:19 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:41:19 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:41:19 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:41:19 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:41:30 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:41:31 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:41:31 INFO  APIInvoker:250 - Number of Reviews retrieved=>3200
+  2023-07-14 12:41:31 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:41:31 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:41:31 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:41:31 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:41:41 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:41:41 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:41:41 INFO  APIInvoker:250 - Number of Reviews retrieved=>3300
+  2023-07-14 12:41:41 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:41:41 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:41:41 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:41:41 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:41:51 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:41:51 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:41:51 INFO  APIInvoker:250 - Number of Reviews retrieved=>3400
+  2023-07-14 12:41:51 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:41:51 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:41:51 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:41:51 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:42:14 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:42:15 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:42:15 INFO  APIInvoker:250 - Number of Reviews retrieved=>3500
+  2023-07-14 12:42:15 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:42:15 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:42:15 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:42:15 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:42:32 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:42:32 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:42:32 INFO  APIInvoker:250 - Number of Reviews retrieved=>3600
+  2023-07-14 12:42:32 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:42:32 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:42:32 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:42:32 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:42:43 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:42:44 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:42:44 INFO  APIInvoker:250 - Number of Reviews retrieved=>3700
+  2023-07-14 12:42:44 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:42:44 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:42:44 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:42:44 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:42:55 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:42:55 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:42:55 INFO  APIInvoker:250 - Number of Reviews retrieved=>3800
+  2023-07-14 12:42:55 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:42:55 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:42:55 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:42:55 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:43:10 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:43:10 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:43:10 INFO  APIInvoker:250 - Number of Reviews retrieved=>3900
+  2023-07-14 12:43:10 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=3900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:43:10 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:43:10 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:43:10 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:43:22 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:43:23 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:43:23 INFO  APIInvoker:250 - Number of Reviews retrieved=>4000
+  2023-07-14 12:43:23 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:43:23 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:43:23 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:43:23 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:43:32 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:43:32 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:43:32 INFO  APIInvoker:250 - Number of Reviews retrieved=>4100
+  2023-07-14 12:43:32 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:43:32 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:43:32 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:43:32 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:43:43 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:43:44 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:43:44 INFO  APIInvoker:250 - Number of Reviews retrieved=>4200
+  2023-07-14 12:43:44 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:43:44 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:43:44 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:43:44 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:43:55 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:43:55 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:43:55 INFO  APIInvoker:250 - Number of Reviews retrieved=>4300
+  2023-07-14 12:43:55 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:43:55 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:43:55 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:43:55 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:44:07 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:44:08 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:44:08 INFO  APIInvoker:250 - Number of Reviews retrieved=>4400
+  2023-07-14 12:44:08 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:44:08 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:44:08 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:44:08 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:44:18 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:44:19 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:44:19 INFO  APIInvoker:250 - Number of Reviews retrieved=>4500
+  2023-07-14 12:44:19 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:44:19 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:44:19 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:44:19 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:44:32 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:44:32 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:44:32 INFO  APIInvoker:250 - Number of Reviews retrieved=>4600
+  2023-07-14 12:44:32 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:44:32 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:44:32 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:44:32 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:44:43 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:44:43 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:44:43 INFO  APIInvoker:250 - Number of Reviews retrieved=>4700
+  2023-07-14 12:44:43 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:44:43 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:44:43 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:44:43 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:44:55 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:44:55 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:44:55 INFO  APIInvoker:250 - Number of Reviews retrieved=>4800
+  2023-07-14 12:44:55 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:44:55 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:44:55 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:44:55 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:45:09 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:45:09 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:45:09 INFO  APIInvoker:250 - Number of Reviews retrieved=>4900
+  2023-07-14 12:45:09 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=4900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:45:09 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:45:09 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:45:09 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:45:25 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:45:26 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:45:26 INFO  APIInvoker:250 - Number of Reviews retrieved=>5000
+  2023-07-14 12:45:26 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:45:26 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:45:26 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:45:26 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:45:38 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:45:39 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:45:39 INFO  APIInvoker:250 - Number of Reviews retrieved=>5100
+  2023-07-14 12:45:39 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:45:39 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:45:39 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:45:39 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:45:54 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:45:55 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:45:55 INFO  APIInvoker:250 - Number of Reviews retrieved=>5200
+  2023-07-14 12:45:55 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:45:55 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:45:55 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:45:55 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:46:08 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:46:09 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:46:09 INFO  APIInvoker:250 - Number of Reviews retrieved=>5300
+  2023-07-14 12:46:09 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:46:09 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:46:09 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:46:09 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:46:23 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:46:24 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:46:24 INFO  APIInvoker:250 - Number of Reviews retrieved=>5400
+  2023-07-14 12:46:24 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:46:24 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:46:24 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:46:24 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:46:41 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:46:41 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:46:41 INFO  APIInvoker:250 - Number of Reviews retrieved=>5500
+  2023-07-14 12:46:41 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:46:41 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:46:41 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:46:41 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:46:57 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:46:58 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:46:58 INFO  APIInvoker:250 - Number of Reviews retrieved=>5600
+  2023-07-14 12:46:58 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:46:58 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:46:58 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:46:58 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:47:15 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:47:15 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:47:15 INFO  APIInvoker:250 - Number of Reviews retrieved=>5700
+  2023-07-14 12:47:15 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:47:15 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:47:15 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:47:15 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:47:29 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:47:29 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:47:29 INFO  APIInvoker:250 - Number of Reviews retrieved=>5800
+  2023-07-14 12:47:29 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:47:29 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:47:29 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:47:29 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:47:48 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:47:48 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:47:48 INFO  APIInvoker:250 - Number of Reviews retrieved=>5900
+  2023-07-14 12:47:48 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=5900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:47:48 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:47:48 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:47:48 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:48:08 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:48:08 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:48:08 INFO  APIInvoker:250 - Number of Reviews retrieved=>6000
+  2023-07-14 12:48:08 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:48:08 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:48:08 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:48:08 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:48:24 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:48:24 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:48:24 INFO  APIInvoker:250 - Number of Reviews retrieved=>6100
+  2023-07-14 12:48:24 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:48:24 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:48:24 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:48:24 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:48:42 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:48:43 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:48:43 INFO  APIInvoker:250 - Number of Reviews retrieved=>6200
+  2023-07-14 12:48:43 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:48:43 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:48:43 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:48:43 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:48:56 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:48:56 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:48:56 INFO  APIInvoker:250 - Number of Reviews retrieved=>6300
+  2023-07-14 12:48:56 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:48:56 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:48:56 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:48:56 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:49:13 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:49:13 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:49:13 INFO  APIInvoker:250 - Number of Reviews retrieved=>6400
+  2023-07-14 12:49:13 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:49:13 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:49:13 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:49:13 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:49:31 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:49:32 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:49:32 INFO  APIInvoker:250 - Number of Reviews retrieved=>6500
+  2023-07-14 12:49:32 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:49:32 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:49:32 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:49:32 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:49:48 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:49:48 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:49:48 INFO  APIInvoker:250 - Number of Reviews retrieved=>6600
+  2023-07-14 12:49:48 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:49:48 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:49:48 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:49:48 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:50:07 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:50:08 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:50:08 INFO  APIInvoker:250 - Number of Reviews retrieved=>6700
+  2023-07-14 12:50:08 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6700&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:50:08 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:50:08 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:50:08 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:50:23 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:50:23 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:50:23 INFO  APIInvoker:250 - Number of Reviews retrieved=>6800
+  2023-07-14 12:50:23 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6800&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:50:23 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:50:23 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:50:23 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:50:39 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:50:40 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:50:40 INFO  APIInvoker:250 - Number of Reviews retrieved=>6900
+  2023-07-14 12:50:40 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=6900&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:50:40 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:50:40 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:50:40 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:50:57 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:50:58 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:50:58 INFO  APIInvoker:250 - Number of Reviews retrieved=>7000
+  2023-07-14 12:50:58 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=7000&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:50:58 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:50:58 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:50:58 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:51:21 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:51:21 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:51:21 INFO  APIInvoker:250 - Number of Reviews retrieved=>7100
+  2023-07-14 12:51:21 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=7100&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:51:21 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:51:21 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:51:21 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:51:38 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:51:39 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:51:39 INFO  APIInvoker:250 - Number of Reviews retrieved=>7200
+  2023-07-14 12:51:39 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=7200&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:51:39 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:51:39 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:51:39 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:52:18 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:52:19 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:52:19 INFO  APIInvoker:250 - Number of Reviews retrieved=>7300
+  2023-07-14 12:52:19 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=7300&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:52:19 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:52:19 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:52:19 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:52:42 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:52:42 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:52:42 INFO  APIInvoker:250 - Number of Reviews retrieved=>7400
+  2023-07-14 12:52:42 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=7400&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:52:42 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:52:42 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:52:42 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:53:04 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:53:05 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:53:05 INFO  APIInvoker:250 - Number of Reviews retrieved=>7500
+  2023-07-14 12:53:05 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=7500&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:53:05 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:53:05 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:53:05 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:53:38 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:53:38 INFO  APIInvoker:241 - Formatting the Review data into JSON format
+  2023-07-14 12:53:38 INFO  APIInvoker:250 - Number of Reviews retrieved=>7600
+  2023-07-14 12:53:38 INFO  APIInvoker:154 - URL to get Reviews-=>https://ao-docs.appspot.com/_ah/api/search/v1/libraries/S4MU8KHxZyuMPz6JPl/views/TeKZtUvAk58ycH2mab?limit=100&offset=7600&securityCode=S5INt505uH4ZSnmEy3
+  2023-07-14 12:53:38 INFO  APIInvoker:176 - Connecting
+  2023-07-14 12:53:38 INFO  APIInvoker:178 - Connected
+  2023-07-14 12:53:38 INFO  APIInvoker:179 - Getting response code
+  2023-07-14 12:54:22 INFO  APIInvoker:181 - Response code=>200
+  2023-07-14 12:54:22 WARN  APIInvoker:222 - No response received from API for the Reviews
+  2023-07-14 12:54:22 INFO  Launcher:28 - Audit logs and Reviews info has been retrived and stored as JSON file
+  2023-07-14 12:54:22 INFO  Launcher:29 - Setting the last execution date for the reference of next iteration
+  2023-07-14 12:54:22 INFO  ConfigurationXML:90 - Last execution date updated
+  2023-07-14 12:54:22 INFO  ExecutionInfo:102 - Last execution date updated
+  2023-07-14 12:54:22 INFO  Launcher:31 - COMPLETED- AskLegal API Connector
+  

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cep-yum-group" />
+      <option name="name" value="cep-yum-group" />
+      <option name="url" value="https://nrm.us.equifax.com/repository/cse-cep-df-yum-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="df-releases-maven-hosted" />
+      <option name="name" value="df-releases-maven-hosted" />
+      <option name="url" value="https://nrm.us.equifax.com/repository/df-releases-maven-hosted/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://nrm.us.equifax.com/repository/efxmaven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="public-maven-proxy" />
+      <option name="name" value="public-maven-proxy" />
+      <option name="url" value="https://nrm.us.equifax.com/repository/public-maven-proxy" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cep-group" />
+      <option name="name" value="cep-group" />
+      <option name="url" value="https://nrm.us.equifax.com/repository/cse-cep-df-maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eo-dataprotection-releases-maven-hosted" />
+      <option name="name" value="eo-dataprotection-releases-maven-hosted" />
+      <option name="url" value="https://nrm.us.equifax.com/repository/eo-dataprotection-releases-maven-hosted" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="df-snapshots-maven-hosted" />
+      <option name="name" value="df-snapshots-maven-hosted" />
+      <option name="url" value="https://nrm.us.equifax.com/repository/df-snapshots-maven-hosted/" />
+    </remote-repository>
+  </component>
+</project>
